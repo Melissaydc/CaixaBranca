@@ -1,4 +1,4 @@
-# 🧰 Teste de Caixa Branca
+# Teste de Caixa Branca
 
 ## Principais erros
 - A variável nome não foi declarada antes de ser usada para armazenar o resultado da consulta.
