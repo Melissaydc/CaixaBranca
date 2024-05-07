@@ -1,4 +1,4 @@
-# 🧰 Teste de Caixa Branca
+# Teste de Caixa Branca
 
 ## Gráficos
 
